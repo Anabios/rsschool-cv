@@ -1,1 +1,1 @@
-# rsschool-cv
+https://GITHUB-Anabios.github.io/rsschool-cv/cv
