@@ -16,9 +16,9 @@ function multiply(a, b) {
 ```
 
 ### Contacts
-* github: https://github.com/Anabios
-* Дискорд: PauI#8332
-* skype: rus77739
+* ***Github:** https://github.com/Anabios
+* **Дискорд:** PauI#8332
+* **Skype:** rus77739
 
 
 
