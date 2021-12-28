@@ -1,4 +1,4 @@
-# Alexander Khamulin
+### Name: Alexander
 ### About me
 <p>I am a student studying programming.</p>
 
@@ -16,7 +16,7 @@ function multiply(a, b) {
 ```
 
 ### Contacts
-* ***Github:** https://github.com/Anabios
+* **Github:** https://github.com/Anabios
 * **Дискорд:** PauI#8332
 * **Skype:** rus77739
 
