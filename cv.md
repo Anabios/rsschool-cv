@@ -2,9 +2,11 @@
 ### About me
 <p>I am a student studying programming.</p>
 
-### Skills: HTML, CSS.
+### Skills: 
+<p>HTML, CSS.</p>
 
-### English: A2
+### languages
+<p>English: A2</p>
 
 ### Code wars:
 <p>My first code</p>
