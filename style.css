@@ -76,3 +76,33 @@ select {
     scroll-behavior: auto !important;
   }
 }
+
+
+
+
+.header_main {
+  height: 10%;
+  width: 100%;
+  background: rgba(2, 2, 255, 0.438);
+}
+
+.main_footer {
+  display: flex;
+  height: 20%;
+}
+
+.navigation_list {
+  display: flex;
+}
+
+.main_container {
+  display: flex;
+  height: 20%;
+  justify-content: space-around;
+
+}
+
+footer {
+  height: 10%;
+
+}
