@@ -68,10 +68,6 @@ select {
   font: inherit;
 }
 
-body {
-
-
-}
 
 .container {
 max-width: 1280px;
@@ -173,8 +169,7 @@ border-bottom: chocolate 3px solid;
   padding: 25px;  
 }
 
-.footer_logo {
-}
+
 
 .footer_text {
   color: white;
