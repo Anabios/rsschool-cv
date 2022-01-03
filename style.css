@@ -68,7 +68,17 @@ select {
   font: inherit;
 }
 
-.header_container {
+body {
+
+
+}
+
+.container {
+max-width: 1480px;
+margin: 0px auto;
+}
+
+.page_header {
 padding: 20px;
   background: rgb(34, 41, 61);
 }
@@ -90,7 +100,7 @@ font: size;
 }
 
 .nav_link {
-  color: red;
+  color: white;
 }
 
 
@@ -101,7 +111,7 @@ font: size;
   margin-top: 25px; 
 }
 
-.logo {
+.main_logo {
   border-radius: 100px;  
   border: 3px solid rgb(38, 0, 128);  
   box-shadow: 0 0 7px #666; 
@@ -119,7 +129,13 @@ border-bottom: chocolate 5px solid;
  
 }
 
+.main_content {
+  flex: 0 1 50%;
+  margin: 30px;
+}
+
 .main_content_title {
-  border-top: 5px solid darkblue;
+ 
+  margin: 10px 0;
 }
 
