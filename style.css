@@ -144,9 +144,7 @@ border-bottom: chocolate 3px solid;
 
 .main_container {
   display: flex; 
-  
 }
-
 
 .main_content {
   flex: 0 1 50%;
@@ -163,7 +161,7 @@ border-bottom: chocolate 3px solid;
 
 .footer {
   background: rgb(34, 41, 61);
-   
+ 
 }
 
 .footer_row {
@@ -172,8 +170,6 @@ border-bottom: chocolate 3px solid;
   align-items: center;
   padding: 25px;  
 }
-
-
 
 .footer_text {
   color: white;
