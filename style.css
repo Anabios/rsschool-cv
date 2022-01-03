@@ -171,7 +171,15 @@ border-bottom: chocolate 3px solid;
   padding: 25px;  
 }
 
+.footer_left {
+  color: white;
+}
+
 .footer_text {
   color: white;
   font-family: 'Roboto', sans-serif;
+}
+
+.footer_text:hover {
+  color: #FE5568;
 }
